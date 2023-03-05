@@ -15,3 +15,4 @@ cargo build --features flutter
 cd /home/chieh/Documents/rustdesk/flutter
 flutter run -d linux
 # /home/chieh/Documents/rustdesk/target/debug/rustdesk --service
+# sudo /home/chieh/Documents/rustdesk/flutter/build/linux/x64/debug/bundle/rustdesk 
